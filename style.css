@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+.container {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.sq {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 20px auto;
+  background: white;
+}
+
+.sq2 {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 20px;
+}
+
+.sq2 .dot {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background: black;
+  left: 0;
+  top: 0;
+}
+
+.sq_z {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 20px auto;
+  background: white;
+}
+
+.sq2_z {
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 20px auto;
+}
+
+.sq2_z .dot_z {
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  background: red;
+  left: 0;
+  top: 0;
+}
+/*# sourceMappingURL=style.css.map */
