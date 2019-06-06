@@ -35,8 +35,8 @@ h1 {
 
 .sq2 .dot {
   position: absolute;
-  width: 5px;
-  height: 5px;
+  width: 3px;
+  height: 3px;
   background: black;
   left: 0;
   top: 0;
@@ -59,8 +59,8 @@ h1 {
 
 .sq2_z .dot_z {
   position: absolute;
-  width: 5px;
-  height: 5px;
+  width: 3px;
+  height: 3px;
   background: red;
   left: 0;
   top: 0;
